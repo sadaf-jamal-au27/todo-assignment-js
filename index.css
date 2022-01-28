@@ -1,0 +1,43 @@
+
+  input{
+    outline-offset: 0;
+  }
+
+  
+  li{
+    margin-top: 20px;
+    margin-bottom: 3px;
+  }
+ 
+  .completed{
+    text-decoration: line-through;
+  }
+  .toggle-button{
+    margin-left: 15px;
+  }
+  .add-sub-todo{
+    margin-left: 15px;
+  }
+  .hidden{
+    display:none;
+  }
+  .edit-input{
+    display:block;
+  }
+  #todo-list{
+
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px grey;
+  }
+  #buttons{
+    text-align: center;
+  }
+
+  .li-div{
+    white-space: nowrap;
+  }
+  .selected{
+    background: rgba(83,164,245,0.77);
+  }
+  
+  
